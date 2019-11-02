@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	micro "github.com/micro/go-micro"
-	proto "github.com/unduu/microservice/proto"
+	proto "github.com/unduu/microservice/greeter"
 )
 
 type Greeter struct{}
